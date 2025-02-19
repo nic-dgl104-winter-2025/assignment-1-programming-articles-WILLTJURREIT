@@ -68,6 +68,9 @@ Code level documentation is a practice of communication between programmers in t
 **How to comment in different code languages**
 ![Different code languages comment syntax](Images/makeCodeComments.png)
 
+**Example of commenting in code language**
+![commenting in code language example](Images/commentingCodeExample.png)
+
 
 
 ## Best practices of documentation:
@@ -97,8 +100,10 @@ Self documenting code is the practice of following good naming conventions, and 
 ![self documenting code example 1](Images/selfDocumentingCode2.png)
 ![self documenting code example 2](Images/selfDocumentingCode3.png)
 
-**Example of creating modular code with MIT App Inventor.**
+**Examples of creating modular code with MIT App Inventor.**
+This is done to create simplicity, "Self Documenting code", which follows good naming conventions so it can be easily understood.
 ![MIT App Inventor modular code example](Images/ModularCode.png)
+![MIT App Inventor modular code example2](Images/modularCodeExample2.png)
 
 
 ### Key take away: 
@@ -128,5 +133,6 @@ In conclusion, when developing a program and working with a team, the process of
 - [reference](Writing Self-Documenting Code)
 - [reference](Writing Self-Documenting Code 🧑‍💻📜 - DEV Community)
 - [reference](Project Documentation: Examples and Templates)
+- [Project Documentation: Examples and Templates](https://expertbeacon.com/putting-comments-in-code-the-good-the-bad-and-the-ugly/)
 
 
