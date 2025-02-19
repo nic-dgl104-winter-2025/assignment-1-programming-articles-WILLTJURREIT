@@ -14,8 +14,10 @@ Documentation is a method of recording information, that should be kept for effi
 When working on a project it is important to document the process, and steps taken, to help create a quality program, or project. Documentation improves the maintenance, collaboration of the team, and efficiency. One major benefit of the is that is decreases the chances of the project failing. If the documentation is consistent and understood, it may prevent future bugs from being introduced. Documentation is a form of communication, and communication is a core asset to building a project. In an online article a writer asserts that “documentation helps developers understand the codebase” (The Tech Insider).
 
 ## Types of documentation:
- 
+ ![Image of types of documentation](Images/Types-of-Documentation-in-Software-Development-2.webp)
+
 **There are many types of software documentation as shown in the image above.** 
+
 ### To list a few: 
 -	Process Documentation
 -	Planning Documentation
@@ -39,6 +41,8 @@ When working on a project it is important to document the process, and steps tak
 ## Project Documentation: 
 Project documentation is essential for effectively communicating the progress and outcomes of a project, as it involves recording completed work at strategic points. This documentation serves several purposes including providing information about the projects plans and outcomes, speaking about the specific code created issues that may have been encountered, and any ideas that could improve the project. The project documentation explains the purpose of the functions, any test results, and why the function is designed a certain way. This type of documentation speaks to both the stake holders, and the team members who are working on the project, who may not have much coding experience. The team can be involved in the process and reflect the project goals and objectives, by being capable of understanding the project documentation. Project documentation is a great way to track the progress of the project and add revisions. Project documentation, improves communication, decision making, and acts as a historical reference, assists in mitigating the risks, and ensures quality control can be effective. A supporting article online states that, “Effective project documentation is key to successful project management. It serves as a central place for important information, helps in making decisions, and ensures good communication and project continuity.” (www.geeksforgeeks.org 09 Aug. 2024)
 
+**Here is a example of what a template might look like for "Project Level Documentation**
+![Image of a template for project level documentation](Images/projectLvlDocTemp.png)
 
 ### Key take away:
 -	Good for communication. 
@@ -60,6 +64,11 @@ Code level documentation is a practice of communication between programmers in t
 -	If the documentation is not maintained, or deleted as needed later the documentation may no longer be relevant, and cause confusion. 
 -	This documentation needs to be manually altered or removed. 
 -	Typos, or errors, may cause syntax errors. 
+
+**How to comment in different code languages**
+![Different code languages comment syntax](Images/makeCodeComments.png)
+
+
 
 ## Best practices of documentation:
 Following the best practices helps your project be successful in reaching its goals and reduces the savings of time. If done properly the documentation created can become a valuable resource in development.  
@@ -83,6 +92,14 @@ Best practices of documenting include:
 ## Self Documentation code:
 
 Self documenting code is the practice of following good naming conventions, and organization of the code written If done correctly, the code will be easily understood by others who are reading it. The code will become simple to manage, mentioned in an online article, “your codebase is easy to understand” (TECHNOLOGIES July 30th, 2019). As a result, the code will be easier to maintain, costing less time and money. This reduces the need for programmers to look at the written documentation, as it is easily understood. A good programmer will adopt this habit and integrate this into the programming routine.  The main defence against bugs is good programming practice and naming conventions. Writing simple modular code functions will help to create “Self Documenting Code”. 
+
+**Here are some images of self documenting code examples.**
+![self documenting code example 1](Images/selfDocumentingCode2.png)
+![self documenting code example 2](Images/selfDocumentingCode3.png)
+
+**Example of creating modular code with MIT App Inventor.**
+![MIT App Inventor modular code example](Images/ModularCode.png)
+
 
 ### Key take away: 
 -	Use good naming conventions. 
