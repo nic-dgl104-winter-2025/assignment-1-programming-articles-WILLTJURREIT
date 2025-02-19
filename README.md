@@ -114,3 +114,19 @@ In conclusion, when developing a program and working with a team, the process of
 
 ## References:
 
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Self-documenting_code)
+- [reference software doc](https://www.geeksforgeeks.org/overview-software-documentation/)
+- [reference](https://softwaredocumentation.tech/types-of-documents-in-software-development/)
+- [reference](GitHub Markdown)
+- [reference](GitHub README files)
+- [reference](Code Documentation Examples: A Practical Guide with Best Practices | DocuWriter.ai)
+- [reference](Documentation Definition & Meaning - Merriam-Webster)
+- [reference](The Importance of Documentation in Programming: Best Practices and Tips for Maintaining Effective Documentation | by The Tech Insider | Medium)
+- [reference](Self-Documenting Code: 10 Best Practices for Writing Self-Documenting Code)
+- [reference](Project Documentation: 15 Essential Project Documents - GeeksforGeeks)
+- [reference](Writing Self-Documenting Code)
+- [reference](Writing Self-Documenting Code 🧑‍💻📜 - DEV Community)
+- [reference](Project Documentation: Examples and Templates)
+
+
